@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800" height="500" viewBox="0 0 800 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="500" fill="#F3F4F6"/>
+  <path d="M400 250C400 300.5 359.5 341 309 341C258.5 341 218 300.5 218 250C218 199.5 258.5 159 309 159C359.5 159 400 199.5 400 250Z" fill="#1E40AF"/>
+  <path d="M400 250C400 300.5 440.5 341 491 341C541.5 341 582 300.5 582 250C582 199.5 541.5 159 491 159C440.5 159 400 199.5 400 250Z" fill="#1E40AF"/>
+  <path d="M400 341C350.5 341 310 300.5 310 250C310 199.5 350.5 159 400 159C449.5 159 490 199.5 490 250C490 300.5 449.5 341 400 341Z" fill="#3B82F6"/>
+  <text x="50%" y="400" text-anchor="middle" font-family="Arial" font-size="24" fill="6B7280">Dropbox Brand Portal</text>
+  <text x="50%" y="430" text-anchor="middle" font-family="Arial" font-size="16" fill="9CA3AF">Placeholder Image</text>
+</svg>
