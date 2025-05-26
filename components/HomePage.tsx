@@ -17,9 +17,9 @@ const HomePage = () => {
   return (
     <div>
       <div className="relative z-10 min-h-screen flex flex-col items-center justify-center px-6 md:px-12 lg:px-24 ">
-        <div className="max-w-4xl mx-auto flex flex-col items-start justify-between bg-white h-[90vh] w-[40vw] border-1 border-[#d8e5fb] px-10 py-5">
+        <div className="mx-auto flex flex-col items-start justify-between bg-white h-[90vh] md:w-[70vw] lg:w-[40vw] xl:[40vw] w-[80vw] border-1 border-[#d8e5fb] px-10 py-5">
           <motion.h1
-            className="text-xl md:text-6xl lg:text-7xl xl:text-4xl font-bold text-[#0061FF] leading-tight mb-16 "
+            className="text-xl sm:text-4xl  md:text-3xl lg:text-4xl xl:text-4xl font-bold text-[#0061FF] leading-tight mb-16 "
             initial={{ opacity: 0, y: 30 }}
             animate={showContent ? { opacity: 1, y: 0 } : { opacity: 0, y: 30 }}
             transition={{
