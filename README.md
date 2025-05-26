@@ -1,36 +1,49 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 📦 Dropbox Brand Clone – Kraftbase Frontend Assignment
 
-## Getting Started
+This project is a frontend clone of the [Dropbox Brand site](https://brand.dropbox.com), built as part of the Kraftbase assignment. The focus is on clean architecture, responsive design, and smooth animations using modern frontend tools.
 
-First, run the development server:
+## 🔧 Tech Stack
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- **Next.js** – React framework with SSR and routing out of the box
+- **TypeScript** – Strong typing and better developer experience
+- **Tailwind CSS** – Utility-first CSS for fast and responsive design
+- **Framer Motion** – Declarative animations and smooth transitions
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 📌 Why These Tools?
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- **Next.js:** Simplifies routing and performance optimization
+- **TypeScript:** Helps avoid runtime bugs with static type checking
+- **Tailwind CSS:** Enables rapid prototyping with a mobile-first approach
+- **Framer Motion:** Ideal for smooth and easy-to-implement animations
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🚀 Features Implemented
 
-## Learn More
+- Clean landing page structure
+- Smooth entry animations using Framer Motion
+- Mobile-responsive layout
+- Component-based architecture
+- Static image placeholders used for canvas-based animations (as per instruction)
 
-To learn more about Next.js, take a look at the following resources:
+## ⚠️ Known Limitations
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- Some complex animations and canvas elements are replaced with static assets/GIFs
+- Feature scope focused on a clean, functional milestone over completeness due to time constraints
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 💡 Challenges Faced
 
-## Deploy on Vercel
+- Learning and implementing Framer Motion effectively in a real UI
+- Balancing between animation complexity and clean delivery in a short timeline
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 📁 Project Structure
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- `components/` – Reusable components
+- `app/` – Next.js app directory
+- `public/` – Static assets
+- `next.config.ts` – Next.js configuration
+
+## 🙏 Thanks
+
+Thank you Kraftbase team for this opportunity. I’ve focused on delivering clean code with attention to detail and would love a chance to improve and grow further with the team.
+
+---
+
